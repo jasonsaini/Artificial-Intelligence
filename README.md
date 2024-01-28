@@ -1,4 +1,4 @@
-# AI Exploration with Python, NumPy, & PyTorch 🔥
+# AI with Python, NumPy, & PyTorch 🔥
 
 ## Overview
 This repository is an exploration of artificial intelligence, focusing on machine learning & deep learning. It encompasses a range of projects & experiments utilizing Python, NumPy, and PyTorch, showcasing practical applications in computer vision & natural language processing.

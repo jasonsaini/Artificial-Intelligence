@@ -15,4 +15,6 @@ This repository is an exploration of artificial intelligence, focusing on machin
 
 ## The Journey So Far 🌟
 - [X] Single & Multivariable Regression
-
+- [X] Logistic Regressin
+- [ ] Long Short Term Memory (LSTM)
+- [ ] Natural Language Processing (NLP)
